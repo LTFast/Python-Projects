@@ -9,5 +9,5 @@ The player and the computer will keep switching turns until all battleships are 
 **HOW TO START THE GAME:** Execute the battleship_driver.py file
 
 
-![Battlship](Battleship/battleship-display.png)
-Format: ![Alt Text](url)
+![![GitHub Logo](Battleship/battleship-display.png)
+Format: ![Alt Text](Battleship/battleship-display.png)
