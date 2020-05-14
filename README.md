@@ -1,3 +1,3 @@
-# Python Project
+# Python Projects
 
-This repo displays some of my work using Python
+This repo displays some of my work using Python.
